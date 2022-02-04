@@ -1,1 +1,20 @@
-.m1{}
+.s1:hover
+{
+    text-decoration:none;color:green;
+}
+.s2:hover
+{
+    text-decoration:none;color:red;
+}
+.s3:hover
+{
+    text-decoration:none;color:blueviolet;
+}
+.s4:hover
+{
+    text-decoration:none;color:gray;
+}
+.s5:hover
+{
+    text-decoration:none;color:orange;
+}
