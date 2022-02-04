@@ -18,3 +18,11 @@
 {
     text-decoration:none;color:orange;
 }
+img
+{
+    border: 1px solid #de0000;
+
+    padding: 5px;
+
+    border-radius: 25px;
+}
